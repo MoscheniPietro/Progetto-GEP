@@ -1,4 +1,4 @@
-Progetto "Festival della cultura"
+Progetto "Festival Online della cultura"
 
 PROBLEMA
 Mettere in comunicazione più persone su un'unica piattaforma per condividere informazioni
