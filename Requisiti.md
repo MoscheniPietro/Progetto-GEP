@@ -12,9 +12,3 @@ Le funzionalità delle Webapp per la gestione dell'energia possono variare a sec
 
 Queste sono solo alcune delle funzionalità che potresti trovare in una Webapp per la gestione dell'energia. Ricorda che le funzionalità specifiche possono variare a seconda del software che stai utilizzando.
 
-Origine: conversazione con Bing, 27/10/2023
-(1) App Enel Energia: come funziona e come scaricarla | Enel Energia. https://www.enel.it/it/supporto/faq/app-enel.
-(2) Le migliori app per gestire le utenze luce e gas - FULLO. https://fullo.it/news/migliori-app-per-gestire-le-utenze/.
-(3) Comunità Energetiche: Software Gestione Energia | Maps Spa. https://energy.mapsgroup.it/comunita-energetiche/.
-(4) Software monitoraggio consumi energetici - website. https://www.zucchetti.it/website/cms/prodotto/2791-energy-management.html.
-(5) Monitoraggio energetico e Energy Management Software | Enel X. https://corporate.enelx.com/it/question-and-answers/what-is-energy-monitoring.
