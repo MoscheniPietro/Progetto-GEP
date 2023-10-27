@@ -10,5 +10,5 @@ Le funzionalità delle Webapp per la gestione dell'energia possono variare a sec
 8. **Comunicazione con il centro assistenza**: Puoi comunicare velocemente con il centro assistenza per risolvere eventuali problemi⁴.
 9. **Ottimizzazione dell'utilizzo delle risorse energetiche**: Grazie agli algoritmi di Intelligenza Artificiale e Machine Learning, alcune app sono in grado di ottimizzare l'utilizzo delle risorse energetiche della comunità².
 
-Queste sono solo alcune delle funzionalità che potresti trovare in una Webapp per la gestione dell'energia. Ricorda che le funzionalità specifiche possono variare a seconda del software che stai utilizzando.
+
 
