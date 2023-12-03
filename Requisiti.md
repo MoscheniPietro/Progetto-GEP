@@ -19,7 +19,7 @@ DIAGRAMMA UML
 WBS
 <img src="[Pietro Moscheni WBS.pdf](https://github.com/MoscheniPietro/Progetto-GEP/files/13539317/Pietro.Moscheni.WBS.pdf)">
 
-VALUE PROPOSITION
+<br>VALUE PROPOSITION</br>
 WebApp per la gestione dell'energia 
 <br>Titolo</br>
 Fai una scelta semplice e sostenibile con la nostra app.
