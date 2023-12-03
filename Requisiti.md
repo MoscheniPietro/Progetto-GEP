@@ -35,5 +35,5 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 <br>Digitalizzazione delle pratiche utente
 <br>Trasparenza dei consumi
 <br>Gestione semplificata delle pratiche utente</br>
-<br>Visual</br>
+<br><b>Visual<b></br>
 ![_29477981-aec4-43ab-8f10-6d0a5446d006](https://github.com/MoscheniPietro/Progetto-GEP/assets/101174884/39b6773b-bd94-4668-94b9-c457414984b8)
