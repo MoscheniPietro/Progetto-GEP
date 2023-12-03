@@ -30,7 +30,7 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 <br>Riduzione del consumo energetico
 <br>Facilità di gestione del contratto
 <br>Comunicazione efficiente con il centro assistenza
-Pagamenti sicuri
-Digitalizzazione delle pratiche utente
-Trasparenza dei consumi
-Gestione semplificata delle pratiche utente</br>
+<br>Pagamenti sicuri
+<br>Digitalizzazione delle pratiche utente
+<br>Trasparenza dei consumi
+<br>Gestione semplificata delle pratiche utente</br>
