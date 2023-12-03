@@ -27,8 +27,8 @@ Fai una scelta semplice e sostenibile con la nostra app.
 Con la nostra app hai un esperienza integrata e intelligente per gestire l'energia in modo ottimizzato e sostenibile.
 <br><b>Lista dei Benefici</b></br>
 <br>Questa soluzione offre:</br>
-<br>Riduzione del consumo energetico</br>
-<br>Facilità di gestione del contratto</br>
+Riduzione del consumo energetico
+Facilità di gestione del contratto
 <br>Comunicazione efficiente con il centro assistenza</br>
 <br>Pagamenti sicuri</br>
 <br>Digitalizzazione delle pratiche utente</br>
