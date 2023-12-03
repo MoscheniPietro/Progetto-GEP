@@ -18,3 +18,6 @@ DIAGRAMMA UML
 
 WBS
 <img src="[Pietro Moscheni WBS.pdf](https://github.com/MoscheniPietro/Progetto-GEP/files/13539317/Pietro.Moscheni.WBS.pdf)">
+
+VALUE PROPOSITION
+
