@@ -25,4 +25,4 @@ WebApp per la gestione dell'energia
 Fai una scelta semplice e sostenibile con la nostra app.
 <br>Sottotitolo</br>
 Con la nostra app hai un esperienza integrata e intelligente per gestire l'energia in modo ottimizzato e sostenibile.
-Lista dei Benefici
+<br>Lista dei Benefici</br>
