@@ -1,7 +1,7 @@
 WebApp per la gestione dell'energia
 
 <br>PROBLEMA</br>
-Gestire l'energia per un minore consumo con conseguente minore impatto ambientale 
+Gestire l'energia per un minore consumo con conseguente minore impatto ambientale, avere un resoconto sui propri consumi e gestire il proprio contratto in maniera facile e intuitiva
 
 Funzionalità
 1. Gestione del contratto luce e gas: Permette di gestire il contratto di fornitura di energia direttamente dall'app.
