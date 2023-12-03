@@ -21,8 +21,8 @@ WBS
 
 <br>VALUE PROPOSITION</br>
 WebApp per la gestione dell'energia 
-<br>Titolo</br>
+<br><b>Titolo</b></br>
 Fai una scelta semplice e sostenibile con la nostra app.
-<br>Sottotitolo</br>
+<br><b>Sottotitolo</b></br>
 Con la nostra app hai un esperienza integrata e intelligente per gestire l'energia in modo ottimizzato e sostenibile.
-<br>Lista dei Benefici</br>
+<br><b>Lista dei Benefici</b></br>
