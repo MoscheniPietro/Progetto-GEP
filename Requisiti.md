@@ -1,6 +1,6 @@
 WebApp per la gestione dell'energia
 
-PROBLEMA
+<br>PROBLEMA
 Gestire l'energia per un minore consumo con conseguente minore impatto ambientale 
 
 Funzionalità
