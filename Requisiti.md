@@ -28,7 +28,7 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 <br><b>Lista dei Benefici</b></br>
 <br>Questa soluzione offre:</br>
 Riduzione del consumo energetico
-Facilità di gestione del contratto
+<br>Facilità di gestione del contratto</br>
 Comunicazione efficiente con il centro assistenza
 Pagamenti sicuri
 Digitalizzazione delle pratiche utente
