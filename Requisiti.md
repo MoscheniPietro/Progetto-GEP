@@ -20,4 +20,9 @@ WBS
 <img src="[Pietro Moscheni WBS.pdf](https://github.com/MoscheniPietro/Progetto-GEP/files/13539317/Pietro.Moscheni.WBS.pdf)">
 
 VALUE PROPOSITION
-
+WebApp per la gestione dell'energia 
+<br>Titolo</br>
+Fai una scelta semplice e sostenibile con la nostra app.
+Sottotitolo
+Con la nostra app hai un esperienza integrata e intelligente per gestire l'energia in modo ottimizzato e sostenibile.
+Lista dei Benefici
