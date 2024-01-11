@@ -40,6 +40,6 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 
 <br>USER STORIES</br>
 Titolo:Monitoraggio del consumo energetico</br>
-<br>Come:</br>Utente abbonato al servizio EnergyHub
+<br>Come:Utente abbonato al servizio EnergyHub
 <br>Voglio: Monitorare il mio consumo energetico in tempo reale.
 
