@@ -50,8 +50,8 @@ Titolo:Monitoraggio del consumo energetico
 4)L'interfaccia utente deve fornire grafici chiari e intuitivi per rappresentare il consumo energetico.<br>
 5)Ricevere notifiche immediate in caso di picchi anomali di consumo.<br>
 <br>Definizione di Fatto:</br>
-1)L'utente può monitorare il suo consumo energetico in tempo reale attraverso l'interfaccia utente di EnergyHub.<br>
+1)Io posso monitorare il suo consumo energetico in tempo reale attraverso l'interfaccia utente di EnergyHub.<br>
 2)I dati di consumo sono accurati e aggiornati quasi istantaneamente.<br>
-3)L'utente ha la capacità di analizzare i dati di consumo passati attraverso selezioni di intervalli di tempo.<br>
+3)Io ho la capacità di analizzare i dati di consumo passati attraverso selezioni di intervalli di tempo.<br>
 4)La rappresentazione visiva del consumo energetico è chiara e facilmente comprensibile.<br>
-5)Il sistema avvisa l'utente in caso di picchi di consumo anomali.<br>
+5)Il sistema deve avvisarmi in caso di picchi di consumo anomali.<br>
