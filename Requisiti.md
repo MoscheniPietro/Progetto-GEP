@@ -39,7 +39,7 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 ![_29477981-aec4-43ab-8f10-6d0a5446d006](https://github.com/MoscheniPietro/Progetto-GEP/assets/101174884/39b6773b-bd94-4668-94b9-c457414984b8)</b></br>
 
 USER STORIES</br>
-Titolo:Visualizzazione dei miei consumi
+<font color="red>Titolo:Visualizzazione dei miei consumi</font>
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
 <br>Voglio: Monitorare il consumo energetico in tempo reale.
 <br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.<br>
