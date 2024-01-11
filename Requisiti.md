@@ -44,7 +44,7 @@ Titolo:Visualizzazione dei miei consumi
 <br>Voglio: Monitorare il consumo energetico in tempo reale.
 <br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.<br>
 <br>Criteri d'accettazione:<br>
-1)Visualizzazione dei dati di consumo energetico attuali nell'abitazione attraverso l'interfaccia utente di EnergyHub.<br>
+1)Visualizzazione dei dati di consumo energetico attraverso l'interfaccia utente di EnergyHub.<br>
 2)La visualizzazione del consumo energetico deve essere aggiornata in tempo reale.<br>
 3)Selezionare intervalli di tempo specifici per analizzare i dati di consumo passati.<br>
 4)L'interfaccia utente deve fornire grafici chiari e intuitivi per rappresentare il consumo energetico.<br>
@@ -59,28 +59,28 @@ Titolo:Visualizzazione dei miei consumi
 Titolo:Gestione Bolletta Energetica
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
 <br>Voglio:Poter visualizzare e pagare la mia bolletta energetica direttamente dall'app.
-<br>Per: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili in modo rapido ed efficiente.<br>
+<br>Per: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili.<br>
 <br>Criteri d'accettazione:<br>
-1)L'utente può accedere alla sezione "Bollette" nell'app di EnergyHub.<br>
+1)L'utente dalla sezione "Bollette" nell'app di EnergyHub.<br>
 2)Posso visualizzare le bollette energetiche degli ultimi sei mesi.<br>
 3)Sono presenti opzioni per pagare la bolletta con carta di credito o PayPal.<br>
 4)Ricevo una conferma immediata dopo aver effettuato il pagamento.<br>
 5)Posso impostare notifiche per ricordarmi la scadenza del pagamento.<br>
 <br>Definizione di Fatto:</br>
 1)L'utente può consultare facilmente la propria cronologia di bollette.<br>
-2)Il sistema elabora i pagamenti in modo sicuro e tempestivo.<br>
+2)Il sistema elabora i pagamenti in modo rapido e sicuro.<br>
 3)L'utente riceve conferme immediate dopo ogni transazione.<br>
 4)Le notifiche sulla scadenza del pagamento funzionano correttamente.<br>
 
 Titolo:Ottimizzazione Consumo Energetico
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
-<br>Voglio:Ricevere suggerimenti personalizzati per ottimizzare il mio consumo energetico.
-<br>Per: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso pratiche di consumo più efficienti.<br>
+<br>Voglio:Ricevere suggerimenti per ottimizzare il mio consumo energetico.
+<br>Per: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso consumi più efficienti.<br>
 <br>Criteri d'accettazione:<br>
-1)L'utente può accedere all'area "Ottimizzazione Consumo" nell'app di EnergyHub.<br>
-2)Vengono forniti suggerimenti basati sui dati storici di consumo.<br>
-3)Posso impostare obiettivi personalizzati per la riduzione del consumo energetico.<br>
-4)Ricevo notifiche periodiche sugli obiettivi raggiunti o nuove opportunità di ottimizzazione.<br>
+1)L'utente dall'area "Ottimizzazione Consumo" nell'app di EnergyHub.<br>
+2)Vengono forniti suggerimenti basati su sati di consumo.<br>
+3)Posso impostare obiettivi per la riduzione del consumo energetico.<br>
+4)Ricevo notifiche periodiche sugli obiettivi raggiunti.<br>
 <br>Definizione di Fatto:</br>
 1)L'utente ha accesso a suggerimenti chiari e personalizzati.<br>
 2)Gli obiettivi di riduzione del consumo energetico sono impostati correttamente.<br>
