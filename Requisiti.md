@@ -42,7 +42,7 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 Titolo:Monitoraggio del consumo energetico
 <br><b>Come</b>:Utente abbonato al servizio EnergyHub
 <br>Voglio: Monitorare il consumo energetico in tempo reale.
-<br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.
+<br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.<br>
 <br>Criteri d'accettazione:<br>
 1)Visualizzazione dei dati di consumo energetico attuali nell'abitazione attraverso l'interfaccia utente di EnergyHub.<br>
 2)La visualizzazione del consumo energetico deve essere aggiornata in tempo reale.<br>
