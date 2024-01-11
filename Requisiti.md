@@ -39,11 +39,11 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 ![_29477981-aec4-43ab-8f10-6d0a5446d006](https://github.com/MoscheniPietro/Progetto-GEP/assets/101174884/39b6773b-bd94-4668-94b9-c457414984b8)</b></br>
 
 <br>USER STORIES</br>
-WebApp per la gestione dell'energia 
+Monitoraggio del Consumo Energetico con EnergyHub
 <br><b>Titolo</b></br>
 Monitoraggio del consumo energetico
-<br><b>Come:</b></br>
-Utente abbonato al servizio di EnergyHub.
+<br><b>Come </b></br>
+utente abbonato al servizio di EnergyHub.
 <br><b>Voglio:</b>
 Monitorare il mio consumo energetico in tempo reale.
 <br><b>In modo che</b>
