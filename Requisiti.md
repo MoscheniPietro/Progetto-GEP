@@ -43,9 +43,9 @@ Titolo:Monitoraggio del consumo energetico
 <br>Come:Utente abbonato al servizio EnergyHub
 <br>Voglio: Monitorare il consumo energetico in tempo reale.
 <br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.
-<br>Criteri d'accettazione:
+<br>Criteri d'accettazione:<br>
 1)Visualizzazione dei dati di consumo energetico attuali nell'abitazione attraverso l'interfaccia utente di EnergyHub.<br>
-2)La visualizzazione del consumo energetico deve essere aggiornata in tempo reale.
-3)Selezionare intervalli di tempo specifici per analizzare i dati di consumo passati.
-4)L'interfaccia utente deve fornire grafici chiari e intuitivi per rappresentare il consumo energetico.
-5)Ricevere notifiche immediate in caso di picchi anomali di consumo.
+2)La visualizzazione del consumo energetico deve essere aggiornata in tempo reale.<br>
+3)Selezionare intervalli di tempo specifici per analizzare i dati di consumo passati.<br>
+4)L'interfaccia utente deve fornire grafici chiari e intuitivi per rappresentare il consumo energetico.<br>
+5)Ricevere notifiche immediate in caso di picchi anomali di consumo.<br>
