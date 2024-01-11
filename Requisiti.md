@@ -56,7 +56,7 @@ USER STORIES</br>
 4)La rappresentazione visiva del consumo energetico è chiara e facilmente comprensibile.<br>
 5)Il sistema deve avvisarmi in caso di picchi di consumo anomali.<br>
 
-Titolo:Gestione Bolletta Energetica
+<font color="red">Titolo:Gestione Bolletta Energetica</font>
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
 <br>Voglio:Poter visualizzare e pagare la mia bolletta energetica direttamente dall'app.
 <br>Per: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili.<br>
@@ -72,7 +72,7 @@ Titolo:Gestione Bolletta Energetica
 3)L'utente riceve conferme immediate dopo ogni transazione.<br>
 4)Le notifiche sulla scadenza del pagamento funzionano correttamente.<br>
 
-Titolo:Ottimizzazione Consumo Energetico
+<font color="red">Titolo:Ottimizzazione Consumo Energetico</font>
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
 <br>Voglio:Ricevere suggerimenti per ottimizzare il mio consumo energetico.
 <br>Per: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso consumi più efficienti.<br>
