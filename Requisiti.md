@@ -59,7 +59,7 @@ Titolo:Visualizzazione dei miei consumi
 Titolo:Gestione Bolletta Energetica
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
 <br>Voglio:Poter visualizzare e pagare la mia bolletta energetica direttamente dall'app.
-<br>Perchè: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili in modo rapido ed efficiente.<br>
+<br>Per: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili in modo rapido ed efficiente.<br>
 <br>Criteri d'accettazione:<br>
 1)L'utente può accedere alla sezione "Bollette" nell'app di EnergyHub.<br>
 2)Posso visualizzare le bollette energetiche degli ultimi sei mesi.<br>
@@ -75,7 +75,7 @@ Titolo:Gestione Bolletta Energetica
 Titolo:Ottimizzazione Consumo Energetico
 <br><b>Come:</b>Utente abbonato al servizio EnergyHub
 <br>Voglio:Ricevere suggerimenti personalizzati per ottimizzare il mio consumo energetico.
-<br>Perchè: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso pratiche di consumo più efficienti.<br>
+<br>Per: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso pratiche di consumo più efficienti.<br>
 <br>Criteri d'accettazione:<br>
 1)L'utente può accedere all'area "Ottimizzazione Consumo" nell'app di EnergyHub.<br>
 2)Vengono forniti suggerimenti basati sui dati storici di consumo.<br>
