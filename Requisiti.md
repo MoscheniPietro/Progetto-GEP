@@ -40,7 +40,7 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 
 USER STORIES</br>
 Titolo:Visualizzazione dei miei consumi
-<br><b>Come</b> utente abbonato al servizio EnergyHub
+<br><b>Come:</b> utente abbonato al servizio EnergyHub
 <br>Voglio: Monitorare il consumo energetico in tempo reale.
 <br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.<br>
 <br>Criteri d'accettazione:<br>
