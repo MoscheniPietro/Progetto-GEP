@@ -55,3 +55,33 @@ Titolo:Visualizzazione dei miei consumi
 3)Io ho la capacità di analizzare i dati di consumo passati attraverso selezioni di intervalli di tempo.<br>
 4)La rappresentazione visiva del consumo energetico è chiara e facilmente comprensibile.<br>
 5)Il sistema deve avvisarmi in caso di picchi di consumo anomali.<br>
+
+Titolo:Gestione Bolletta Energetica
+<br><b>Come:</b>Utente abbonato al servizio EnergyHub
+<br>Voglio:Poter visualizzare e pagare la mia bolletta energetica direttamente dall'app.
+<br>Perchè: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili in modo rapido ed efficiente.<br>
+<br>Criteri d'accettazione:<br>
+1)L'utente può accedere alla sezione "Bollette" nell'app di EnergyHub.<br>
+2)Posso visualizzare le bollette energetiche degli ultimi sei mesi.<br>
+3)Sono presenti opzioni per pagare la bolletta con carta di credito o PayPal.<br>
+4)Ricevo una conferma immediata dopo aver effettuato il pagamento.<br>
+5)Posso impostare notifiche per ricordarmi la scadenza del pagamento.<br>
+<br>Definizione di Fatto:</br>
+1)L'utente può consultare facilmente la propria cronologia di bollette.<br>
+2)Il sistema elabora i pagamenti in modo sicuro e tempestivo.<br>
+3)L'utente riceve conferme immediate dopo ogni transazione.<br>
+4)Le notifiche sulla scadenza del pagamento funzionano correttamente.<br>
+
+Titolo:Ottimizzazione Consumo Energetico
+<br><b>Come:</b>Utente abbonato al servizio EnergyHub
+<br>Voglio:Ricevere suggerimenti personalizzati per ottimizzare il mio consumo energetico.
+<br>Perchè: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso pratiche di consumo più efficienti.<br>
+<br>Criteri d'accettazione:<br>
+1)L'utente può accedere all'area "Ottimizzazione Consumo" nell'app di EnergyHub.<br>
+2)Vengono forniti suggerimenti basati sui dati storici di consumo.<br>
+3)Posso impostare obiettivi personalizzati per la riduzione del consumo energetico.<br>
+4)Ricevo notifiche periodiche sugli obiettivi raggiunti o nuove opportunità di ottimizzazione.<br>
+<br>Definizione di Fatto:</br>
+1)L'utente ha accesso a suggerimenti chiari e personalizzati.<br>
+2)Gli obiettivi di riduzione del consumo energetico sono impostati correttamente.<br>
+3)Ricevo notifiche informative e tempestive sul mio progresso.<br>
