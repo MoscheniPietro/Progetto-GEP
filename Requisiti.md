@@ -5,13 +5,13 @@ Scegliere un piano energetico adatto tra varie offerte può essere complicato e 
 
 Funzionalità
 1. Visualizzazione delle Offerte: Permette agli utenti di visualizzare una panoramica delle offerte energetiche disponibili sul mercato.
-2. Consente agli utenti di confrontare le caratteristiche e i costi dei diversi piani energetici.
-3. Fornisce agli utenti uno strumento per calcolare i costi mensili e annuali dei vari piani.
-4. Permette agli utenti di filtrare le offerte in base a criteri specifici come tipo di energia, durata del contratto, e altro.
-5. Gli utenti possono leggere recensioni e feedback lasciati da altri consumatori su ogni piano energetico.
-6. Offre un canale di comunicazione con il supporto clienti per risolvere eventuali dubbi o problemi.
-7. Consente agli utenti di gestire il proprio profilo e le preferenze di ricerca.
-8. Mediante algoritmi di intelligenza artificiale aiutare l'utente nella scelta del piano più efficace.
+2. Confronto dei Piani: Consente agli utenti di confrontare le caratteristiche e i costi dei diversi piani energetici.
+3. Calcolatore di Tariffe: Fornisce agli utenti uno strumento per calcolare i costi mensili e annuali dei vari piani.
+4. Filtro Avanzato: Permette agli utenti di filtrare le offerte in base a criteri specifici come tipo di energia, durata del contratto, e altro.
+5. Recensioni e Feedback: Gli utenti possono leggere recensioni e feedback lasciati da altri consumatori su ogni piano energetico.
+6. Assistenza Clienti: Offre un canale di comunicazione con il supporto clienti per risolvere eventuali dubbi o problemi.
+7. Gestione Profilo: Consente agli utenti di gestire il proprio profilo e le preferenze di ricerca.
+8. Integrazione AI: Mediante algoritmi di intelligenza artificiale aiutare l'utente nella scelta del piano più efficace.
 
 DIAGRAMMA UML
 <img src="https://yuml.me/diagram/usecase/[Utente%20visitatore]-(Sign%20In),[Utente%20visitatore]-(Ricezione%20bolletta),(Ricezione%20Bolletta)%3E(Bolletta%20Telematica),(Ricezione%20Bolletta)%3E(Bolletta%20Cartacea),(Sign%20In)%3C(Cambio%20Password),(Sign%20In)%3E(Compra%20un%20Piano),[Utente%20Autenticato]-(Compra%20un%20piano),(Compra%20un%20piano)%3E(Checkout),[Utente%20Autenticato]-(Problemi),(Problemi)%3C(Comunicazione%20centro%20assistenza),[Utente%20Autenticato]-(Gestione%20del%20contratto),(Gestione%20del%20contratto)-(Luce),(Gestione%20del%20contratto)-(Gas),(Luce)%3C(Pagamento%20bolletta),(Gas)%3C(Pagamento%20bolletta),[Utente%20Autenticato]-(Pagamento%20Bolletta),(Pagamento%20Bolletta)%3E(Checkout),(Checkout)-(Aggiungi%20una%20carta),(Aggiungi%20una%20carta)%3E[Staff%20bancario],">
