@@ -1,17 +1,17 @@
 WebApp per la gestione dell'energia
 
 <br>PROBLEMA</br>
-Gestire l'energia per un minore consumo con conseguente minore impatto ambientale, avere un resoconto sui propri consumi e gestire il proprio contratto in maniera facile e intuitiva
+Scegliere un piano energetico adatto tra varie offerte può essere complicato e dispendioso. Una piattaforma web può semplificare questo processo e renderlo più trasparente.
 
 Funzionalità
-1. Gestione del contratto luce e gas: Permette di gestire il contratto di fornitura di energia direttamente dall'app.
-2. Comunicazione dell'autolettura del contatore: Comunica la lettura del  contatore di ogni cliente.
-3. Pagamento della bolletta: Pagare la bolletta con carta di credito o Paypal.
-4. Richiesta della domiciliazione della bolletta: Richiedere che la bolletta venga inviata direttamente a casa.
-5. Richiesta della Bolletta Web: Richiedere di ricevere la bolletta in formato digitale.
-6. Monitoraggio dei consumi energetici: Permette di vedere l'andamento dei  consumi quasi in tempo reale.
-7. Gestione delle pratiche relative all'utenza: Seguire la gestione delle pratiche relative all'utenza, come voltura, subentro o gestione guasto.
-8. Comunicazione con il centro assistenza: Comunicare velocemente con il centro assistenza per risolvere eventuali problemi.
+1. Visualizzazione delle Offerte: Permette agli utenti di visualizzare una panoramica delle offerte energetiche disponibili sul mercato.
+2. Consente agli utenti di confrontare le caratteristiche e i costi dei diversi piani energetici.
+3. Fornisce agli utenti uno strumento per calcolare i costi mensili e annuali dei vari piani.
+4. Permette agli utenti di filtrare le offerte in base a criteri specifici come tipo di energia, durata del contratto, e altro.
+5. Gli utenti possono leggere recensioni e feedback lasciati da altri consumatori su ogni piano energetico.
+6. Offre un canale di comunicazione con il supporto clienti per risolvere eventuali dubbi o problemi.
+7. Consente agli utenti di gestire il proprio profilo e le preferenze di ricerca.
+8. Mediante algoritmi di intelligenza artificiale aiutare l'utente nella scelta del piano più efficace.
 
 DIAGRAMMA UML
 <img src="https://yuml.me/diagram/usecase/[Utente%20visitatore]-(Sign%20In),[Utente%20visitatore]-(Ricezione%20bolletta),(Ricezione%20Bolletta)%3E(Bolletta%20Telematica),(Ricezione%20Bolletta)%3E(Bolletta%20Cartacea),(Sign%20In)%3C(Cambio%20Password),(Sign%20In)%3E(Compra%20un%20Piano),[Utente%20Autenticato]-(Compra%20un%20piano),(Compra%20un%20piano)%3E(Checkout),[Utente%20Autenticato]-(Problemi),(Problemi)%3C(Comunicazione%20centro%20assistenza),[Utente%20Autenticato]-(Gestione%20del%20contratto),(Gestione%20del%20contratto)-(Luce),(Gestione%20del%20contratto)-(Gas),(Luce)%3C(Pagamento%20bolletta),(Gas)%3C(Pagamento%20bolletta),[Utente%20Autenticato]-(Pagamento%20Bolletta),(Pagamento%20Bolletta)%3E(Checkout),(Checkout)-(Aggiungi%20una%20carta),(Aggiungi%20una%20carta)%3E[Staff%20bancario],">
@@ -32,7 +32,6 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 <br>Facilità di gestione del contratto
 <br>Comunicazione efficiente con il centro assistenza
 <br>Pagamenti sicuri
-<br>Digitalizzazione delle pratiche utente
 <br>Trasparenza dei consumi
 <br>Gestione semplificata delle pratiche utente</br>
 <br><b>Visual<b></br>
@@ -40,48 +39,40 @@ Con la nostra app hai un esperienza integrata e intelligente per gestire l'energ
 
 USER STORIES</br>
 <font color="red">Titolo:Visualizzazione dei miei consumi</font>
-<br><b>Come:</b>Utente abbonato al servizio EnergyHub
-<br>Voglio: Monitorare il consumo energetico in tempo reale.
-<br>In modo che: Possa individuare i comportamenti energetici inefficienti e apportare modifiche per la riduzione del consumo e il miglioramento dell'efficienza.<br>
+<br><b>Come:</b>Utente interessato a cambiare fornitore energetico
+<br>Voglio: Visualizzare una lista delle offerte energetiche disponibili sul mercato
+<br>In modo che: si possano valutare le opzioni e fare una scelta informata.<br>
 <br>Criteri d'accettazione:<br>
-1)Visualizzazione dei dati di consumo energetico attraverso l'interfaccia utente di EnergyHub.<br>
-2)La visualizzazione del consumo energetico deve essere aggiornata in tempo reale.<br>
-3)Selezionare intervalli di tempo specifici per analizzare i dati di consumo passati.<br>
-4)L'interfaccia utente deve fornire grafici chiari e intuitivi per rappresentare il consumo energetico.<br>
-5)Ricevere notifiche immediate in caso di picchi anomali di consumo.<br>
-<br>Definizione di Fatto:</br>
-1)Io posso monitorare il suo consumo energetico in tempo reale attraverso l'interfaccia utente di EnergyHub.<br>
-2)I dati di consumo sono accurati e aggiornati quasi istantaneamente.<br>
-3)Io ho la capacità di analizzare i dati di consumo passati attraverso selezioni di intervalli di tempo.<br>
-4)La rappresentazione visiva del consumo energetico è chiara e facilmente comprensibile.<br>
-5)Il sistema deve avvisarmi in caso di picchi di consumo anomali.<br>
+1)La piattaforma mostra un elenco completo e aggiornato delle offerte energetiche.<br>
+2)Ogni offerta include informazioni dettagliate sui servizi e i costi.<br>
+3)Gli utenti possono ordinare le offerte per prezzo, durata del contratto, e altre opzioni.<br>
 
-<font color="red">Titolo:Gestione Bolletta Energetica</font>
-<br><b>Come:</b>Utente abbonato al servizio EnergyHub
-<br>Voglio:Poter visualizzare e pagare la mia bolletta energetica direttamente dall'app.
-<br>Per: Semplificare il processo di pagamento e tenere traccia delle spese energetiche mensili.<br>
+<font color="red">Titolo:Confronto dei Piani</font>
+<br><b>Come:</b>Utente interessato a confrontare diverse opzioni
+<br>Voglio: Comparare i dettagli e i costi dei piani energetici disponibili
+<br>Per: Poter individuare il piano più conveniente e adatto alle mie esigenze.<br>
 <br>Criteri d'accettazione:<br>
-1)L'utente dalla sezione "Bollette" nell'app di EnergyHub.<br>
-2)Posso visualizzare le bollette energetiche degli ultimi sei mesi.<br>
-3)Sono presenti opzioni per pagare la bolletta con carta di credito o PayPal.<br>
-4)Ricevo una conferma immediata dopo aver effettuato il pagamento.<br>
-5)Posso impostare notifiche per ricordarmi la scadenza del pagamento.<br>
-<br>Definizione di Fatto:</br>
-1)L'utente può consultare facilmente la propria cronologia di bollette.<br>
-2)Il sistema elabora i pagamenti in modo rapido e sicuro.<br>
-3)L'utente riceve conferme immediate dopo ogni transazione.<br>
-4)Le notifiche sulla scadenza del pagamento funzionano correttamente.<br>
+1)Gli utenti possono selezionare due o più piani energetici da confrontare direttamente.<br>
+2)La piattaforma mostra un confronto dettagliato delle caratteristiche e dei costi di ogni piano.<br>
+3)È possibile visualizzare un riepilogo grafico del confronto per una comprensione immediata.<br>
 
-<font color="red">Titolo:Ottimizzazione Consumo Energetico</font>
-<br><b>Come:</b>Utente abbonato al servizio EnergyHub
-<br>Voglio:Ricevere suggerimenti per ottimizzare il mio consumo energetico.
-<br>Per: Ridurre i costi energetici e minimizzare l'impatto ambientale attraverso consumi più efficienti.<br>
+<font color="red">Titolo:Calcolatore di Tariffe</font>
+<br><b>Come:</b>Utente interessato a valutare i costi
+<br>Voglio:Utilizzare uno strumento per calcolare i costi mensili e annuali di un piano energetico
+<br>Per: Poter pianificare il mio budget e confrontare le opzioni disponibili<br>
 <br>Criteri d'accettazione:<br>
-1)L'utente dall'area "Ottimizzazione Consumo" nell'app di EnergyHub.<br>
-2)Vengono forniti suggerimenti basati su sati di consumo.<br>
-3)Posso impostare obiettivi per la riduzione del consumo energetico.<br>
-4)Ricevo notifiche periodiche sugli obiettivi raggiunti.<br>
-<br>Definizione di Fatto:</br>
-1)L'utente ha accesso a suggerimenti chiari e personalizzati.<br>
-2)Gli obiettivi di riduzione del consumo energetico sono impostati correttamente.<br>
-3)Ricevo notifiche informative e tempestive sul mio progresso.<br>
+1)Gli utenti possono inserire i dati relativi al proprio consumo energetico.<br>
+2)Lo strumento fornisce un calcolo accurato dei costi mensili e annuali per ogni piano selezionato.<br>
+3)È possibile modificare i parametri di input e ottenere aggiornamenti istantanei dei costi.<br>
+
+<font color="red">Titolo:Integrazione dell'IA per Consigli Personalizzati</font>
+<br><b>Come:</b>Utente interessato a ottenere consigli personalizzati sulla scelta del piano energetico.
+<br>Voglio:Utilizzare un'Intelligenza Artificiale per ricevere consigli basati sulle mie esigenze e abitudini di consumo.
+<br>Per: Migliorare la mia comprensione delle opzioni disponibili e fare una scelta più informata<br>
+<br>Criteri d'accettazione:<br>
+1)L'IA analizza i dati di consumo storici dell'utente per comprendere le sue abitudini energetiche.<br>
+2)Basandosi sui dati analizzati, l'IA fornisce raccomandazioni personalizzate sui piani energetici più adatti.<br>
+3)Le raccomandazioni includono informazioni dettagliate sui costi, sulla durata del contratto e sulle caratteristiche del piano.<br>
+4)Gli utenti possono interagire con l'IA per chiedere chiarimenti o ulteriori dettagli sulle raccomandazioni fornite.<br>
+5)L'IA continua a migliorare le sue raccomandazioni nel tempo, tenendo conto dei feedback degli utenti e dei cambiamenti nelle abitudini di consumo.br>
+
