@@ -14,7 +14,7 @@ Funzionalità
 8. Integrazione AI: Mediante algoritmi di intelligenza artificiale aiutare l'utente nella scelta del piano più efficace.
 
 DIAGRAMMA UML
-<img src="https://yuml.me/diagram/usecase/[Utente%20visitatore]-(Sign%20In),[Utente%20visitatore]-(Ricezione%20bolletta),(Ricezione%20Bolletta)%3E(Bolletta%20Telematica),(Ricezione%20Bolletta)%3E(Bolletta%20Cartacea),(Sign%20In)%3C(Cambio%20Password),(Sign%20In)%3E(Compra%20un%20Piano),[Utente%20Autenticato]-(Compra%20un%20piano),(Compra%20un%20piano)%3E(Checkout),[Utente%20Autenticato]-(Problemi),(Problemi)%3C(Comunicazione%20centro%20assistenza),[Utente%20Autenticato]-(Gestione%20del%20contratto),(Gestione%20del%20contratto)-(Luce),(Gestione%20del%20contratto)-(Gas),(Luce)%3C(Pagamento%20bolletta),(Gas)%3C(Pagamento%20bolletta),[Utente%20Autenticato]-(Pagamento%20Bolletta),(Pagamento%20Bolletta)%3E(Checkout),(Checkout)-(Aggiungi%20una%20carta),(Aggiungi%20una%20carta)%3E[Staff%20bancario],">
+<img src="https://yuml.me/diagram/usecase/[Utente%20Visitatore]-(Sign%20In),%20(Sign%20In)-(Visita%20Sito),%20(Visita%20Sito)-(Piano%20pi%C3%B9%20adatto),%20(Piano%20pi%C3%B9%20adatto)-(Compra%20piano),%20[Utente%20Autenticato]-(Visita%20sito),%20(Compra%20Piano)%3E(Metodo%20di%20pagamento),%20(Metodo%20di%20pagamento)-[Staff%20Bancario],%20[Utente%20Autenticato]-(Problematiche),%20(Problematiche)-(Feedback),%20(Feedback)%3E(Centro%20assistenza),>
 
 WBS
 ![Blank diagram](https://github.com/MoscheniPietro/Progetto-GEP/assets/101174884/4ea298a2-7de3-4208-9060-1eb35ecf9b4e)
