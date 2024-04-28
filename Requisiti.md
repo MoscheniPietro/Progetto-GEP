@@ -74,5 +74,5 @@ USER STORIES</br>
 2)Basandosi sui dati analizzati, l'IA fornisce raccomandazioni personalizzate sui piani energetici più adatti.<br>
 3)Le raccomandazioni includono informazioni dettagliate sui costi, sulla durata del contratto e sulle caratteristiche del piano.<br>
 4)Gli utenti possono interagire con l'IA per chiedere chiarimenti o ulteriori dettagli sulle raccomandazioni fornite.<br>
-5)L'IA continua a migliorare le sue raccomandazioni nel tempo, tenendo conto dei feedback degli utenti e dei cambiamenti nelle abitudini di consumo.br>
+5)L'IA continua a migliorare le sue raccomandazioni nel tempo, tenendo conto dei feedback degli utenti e dei cambiamenti nelle abitudini di consumo.<br>
 
